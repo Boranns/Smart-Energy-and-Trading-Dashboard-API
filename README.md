@@ -43,9 +43,6 @@ This makes it a strong demonstration of **real-world enterprise backend design**
 Controllers → Services → Repositories → EF Core DbContext → SQL Server
 (API) (Business) (Data Access)
 
-shell
-Kopier kode
-
 Project Structure
 SmartEnergyAPI/
 ├─ Controllers/ # HTTP endpoints
