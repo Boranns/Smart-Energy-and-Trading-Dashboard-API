@@ -46,7 +46,7 @@ Controllers → Services → Repositories → EF Core DbContext → SQL Server
 shell
 Kopier kode
 
-### Project Structure
+Project Structure
 SmartEnergyAPI/
 ├─ Controllers/ # HTTP endpoints
 │ ├─ UsersController.cs
@@ -82,9 +82,4 @@ SmartEnergyAPI/
 │ ├─ EnergyProductService.cs
 │ ├─ TradeService.cs
 │ └─ PortfolioService.cs
-│
-├─ Utils/ # Helpers / JWT utils etc.
-├─ appsettings.json
-├─ Program.cs
-└─ SmartEnergyAPI.http # Quick test file
 
